@@ -677,9 +677,3 @@
 @@||youtube-ui.l.google.com^$important
 # Zoom
 @@||zoom.us^$important
-# My AdGuard Home blocklist
-# Huawei (China)
-||alidns.com^$important
-||dns.alidns.com^$important
-||udmc.aliapp.org^$important
-||sec.umeng.com^$important
