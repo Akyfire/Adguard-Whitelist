@@ -72,6 +72,9 @@
 @@||s.mzstatic.com^$important
 @@||search.itunes.apple.com^$important
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+# Apple Weather iOS
+@@||gsp-ssl.ls.apple.com^$important
+@@||gsp-ssl.ls-apple.com.akadns.net^$important
 # Banking
 @@||h-sdk.online-metrix.net^$important
 @@||check2.tsb.co.uk^$important
