@@ -634,7 +634,7 @@
 @@||subscribe.wired.com^$important
 @@||wired.com^$important
 # Wordpress
-@@||wp.com^$important
+@@||*wp.com^$important
 @@||wordpress.com^$important
 # Xbox
 @@||arc.msn.com^$important
