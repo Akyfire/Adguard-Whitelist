@@ -107,8 +107,6 @@
 @@||disney.demdex.net^$important
 @@||disneyplus.bn5x.net^$important
 @@||disneyplus.com.ssl.sc.omtrdc.net^$important
-@@||disneyplus.com^$important
-@@||disney-plus.net^$important
 @@||disney-portal.my.onetrust.com^$important
 @@||dssott.com^$important
 @@||geolocation.onetrust.com^$important
@@ -285,7 +283,6 @@
 @@||cdninstagram.com^$important
 @@||graph.instagram.com^$important
 @@||instagram.c10r.facebook.com^$important
-@@||instagram.com^$important
 # Lets Encrypt
 @@||letsencrypt.org^$important
 # Linkedin
@@ -371,7 +368,6 @@
 @@||api-global.netflix.com^$important
 @@||appboot.netflix.com^$important
 @@||ichnaea.netflix.com^$important
-@@||netflix.com^$important
 @@||secure.netflix.com^$important
 # News
 @@||express.co.uk^$important
@@ -451,7 +447,6 @@
 @@||pricelist.skype.com^$important
 @@||s.gateway.messenger.live.com^$important
 @@||sa.symcb.com^$important
-@@||skype.com^$important
 @@||ui.skype.com^$important
 # Snapchat
 @@||app-analytics.snapchat.com^$important
@@ -466,7 +461,6 @@
 @@||market.spotify.com^$important
 @@||mobile-ap.spotify.com^$important
 @@||spclient.wg.spotify.com^$important
-@@||spotify.com^$important
 @@||upgrade.scdn.com^$important
 # Steam
 @@||steam.com^$important
