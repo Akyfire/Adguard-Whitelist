@@ -75,10 +75,8 @@
 @@||h-sdk.online-metrix.net^$important
 # BBC iPlayer
 @@||a1.api.bbc.co.uk^$important
-@@||bbc.com^$important
 @@||mybbc-analytics.files.bbci.co.uk^$important
 # Bing
-@@||bing.com^$important
 @@||dev.virtualearth.net^$important	
 @@||ecn.dev.virtualearth.net^$important
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
@@ -300,7 +298,6 @@
 @@||letsencrypt.org^$important
 # Linkedin
 @@||in.linkedin.com^$important
-@@||linkedin.com^$important
 @@||media.licdn.com^$important
 @@||static.licdn.com^$important
 # Microsoft
