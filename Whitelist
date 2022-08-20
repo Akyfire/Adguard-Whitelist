@@ -46,7 +46,6 @@
 # AMD
 @@||amd.cdn.turner.com^$important
 # Apple
-@@||apple.com^$important
 @@||appleid.apple.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||captive.apple.com^$important
