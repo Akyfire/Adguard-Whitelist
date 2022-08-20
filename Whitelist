@@ -94,7 +94,6 @@
 @@||ajax.cloudflare.com^$important
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
-@@||cloudflare.com^$important
 @@||tvthemes.plexapp.com.cdn.cloudflare.net^$important
 # Co-op
 @@||coop.co.uk^$important
@@ -424,7 +423,6 @@
 @@||node.plexapp.com^$important
 @@||o1.email.plex.tv^$important
 @@||o2.sg0.plex.tv^$important
-@@||plex.tv^$important
 @@||proxy.plex.bz^$important
 @@||proxy.plex.tv^$important
 @@||proxy02.pop.ord.plex.bz^$important
