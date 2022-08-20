@@ -252,7 +252,6 @@
 @@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
 @@||google.com^$important
-@@||google-analytics.com^$important
 @@||googleapis.com^$important
 @@||googleapis.l.google.com^$important
 @@||googlehosted.l.googleusercontent.com^$important
@@ -282,7 +281,6 @@
 @@||sites.google.com^$important
 @@||smartlock.google.com^$important
 @@||spreadsheets.google.com^$important
-@@||ssl.google-analytics.com^$important
 @@||storage.googleapis.com^$important
 @@||tpc.googlesyndication.com^$important
 @@||translate.google.com^$important
