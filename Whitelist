@@ -491,13 +491,11 @@
 # Twitter
 @@||t.co^$important
 @@||twimg.com^$important
-@@||twitter.com^$important
 # URL
 @@||anrdoezrs.net^$important
 # Weather
 @@||accuweather.com^$important
 @@||v.w-x.co^$important
-@@||weather.com^$important
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
 # WhatsApp
@@ -609,15 +607,12 @@
 @@||w7.web.whatsapp.com^$important
 @@||w8.web.whatsapp.com^$important
 @@||web.whatsapp.com^$important
-@@||whatsapp.com^$important
-@@||whatsapp.net^$important
 # Wikipedia
 @@||wikipedia.org^$important
 # Wired.com
 @@||media.wired.com^$important
 @@||static.wired.com^$important
 @@||subscribe.wired.com^$important
-@@||wired.com^$important
 # Wordpress
 @@||wordpress.com^$important
 # Xbox
