@@ -415,8 +415,6 @@
 @@||nexusrules.officeapps.live.com^$important
 @@||paypal.com^$important
 @@||t.paypal.com^$important
-# Pintrest
-@@||pinterest.com^$important
 # Playstation
 @@||telemetry-console.api.playstation.com^$important
 # Plex
