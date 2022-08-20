@@ -1,6 +1,20 @@
 # My AdGuard Home blocklist
+# Amazon
+||advertising-api-eu.amazon.com^
+||affiliationjs.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
 # Huawei (China)
 ||alidns.com^$important
 ||dns.alidns.com^$important
 ||udmc.aliapp.org^$important
 ||sec.umeng.com^$important
+# Pinterest
+||ads-dev.pinterest.com^
+# Samsung
+||smetrics.samsung.com^
+# Sentry
+||browser.sentry-cdn.com^
+# Wordpress
+||stats.wp.com^
+# Yahoo.com
+||analytics.yahoo.com^
