@@ -1,4 +1,4 @@
-# Whitelist-Blocklist
+# Whitelist/Blocklist
 
 Personal Whitelist/Blocklist with commonly used domains for adguard.
 
