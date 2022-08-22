@@ -291,7 +291,6 @@
 # Microsoft
 @@||activation.sls.microsoft.com^$important
 @@||activity.windows.com^$important
-@@||aka.ms^$important
 @@||a-msedge.net^$important
 @@||answers.microsoft.com^$important
 @@||au.download.windowsupdate.com^$important
@@ -316,17 +315,13 @@
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||go.microsoft.com^$important
 @@||graph.microsoft.com^$important
-@@||hotmail.com^$important
 @@||i.s-microsoft.com^$important
 @@||i1.social.s-msft.com^$important
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||ipv6.msftncsi.com^$important
 @@||i-technet.sec.s-msft.com^$important
-@@||live.com^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
-@@||m.hotmail.com^$important
-@@||microsoft.com^$important
 @@||microsoftonline.com^$important
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||msedge.api.cdp.microsoft.com^$important
@@ -361,8 +356,6 @@
 @@||windowsupdate.com^$important
 # Movie DB
 @@||themoviedb.com^$important
-# MSN
-@@||msn.com^$important
 # Netflix
 @@||api-global.netflix.com^$important
 @@||appboot.netflix.com^$important
@@ -437,8 +430,6 @@
 # Shopify.com eCommerce Software
 @@||s.shopify.com^$important
 @@||v.shopify.com^$important
-# Sky Bet
-@@||skybet.com^$important
 # Skype
 @@||apps.skype.com^$important
 @@||client-s.gateway.messenger.live.com^$important
