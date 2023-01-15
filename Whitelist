@@ -325,6 +325,7 @@
 @@||mobile.pipe.aria.microsoft.com^$important
 @@||msedge.api.cdp.microsoft.com^$important
 @@||msedge.net^$important
+@@||msftconnecttest.com^$important
 @@||msftncsi.com^$important
 @@||mva.microsoft.com^$important
 @@||partner.microsoft.com^$important
