@@ -191,6 +191,8 @@
 @@||raw.githubusercontent.com^$important
 # GoDaddy
 @@||imagesak.secureserver.net^$important
+# GOG Galaxy
+@@||insights-collector.gog.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
@@ -473,6 +475,7 @@
 @@||v.w-x.co^$important
 @@||worldweather.wmo.int^$important
 @@||yr.no^$important
+@@||mparticle.map.fastly.net^$important
 # WhatsApp
 @@||cdn.whatsapp.net^$important
 @@||e1.whatsapp.net^$important
